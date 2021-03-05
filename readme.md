@@ -35,7 +35,7 @@ Entre pasta do projeto e abra o arquivo index.html
 
 <p>
 
-Clique aqui > [Carousel](https://cousel-com-js-samuelrrs.netlify.app/) 
+Clique aqui > [Carousel](https://carousel-com-js-samuelrrs.netlify.app/) 
 
 <br>
 
