@@ -25,9 +25,8 @@ Clone ou baixe o ZIP do projeto
 ### Para executar :
 
 ```
-Entre pasta do projeto e abra o arquivo index.html
+Entre pasta do projeto e execute o arquivo index.html
 ```
-
 ## 🛠 💻 Para acessar o projeto funcional :
 
 <br>
