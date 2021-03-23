@@ -5,7 +5,7 @@
 Corousel feito em JS e CSS, para podendo passar a imagem arrastando ou clicando sobre as setas.
 
 ## 🚀 Começando
-
+ 
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
 ### 📋 Pré-requisitos
