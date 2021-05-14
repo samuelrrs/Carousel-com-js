@@ -40,7 +40,7 @@ Clique aqui > [Carousel](https://carousel-com-js-samuelrrs.netlify.app/)
 
 <p>
 
-## <h3> 🖼️ Layout </h3>
+## <h3> 🖼️ Layout... </h3>
 
 <br>
 
