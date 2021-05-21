@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre o projeto
 
-Corousel feito em JS e CSS, para podendo passar a imagem arrastando ou clicando sobre as setas.
+Corousel feito em JS e CSS, podendo passar a imagem arrastando ou clicando sobre as setas.
 
 ## 🚀 Começando
  
