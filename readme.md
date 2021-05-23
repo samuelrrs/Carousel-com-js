@@ -1,6 +1,6 @@
 
 
-## 🚀 Sobre o projeto
+## 🚀 Sobre o projeto :
 
 Corousel feito em JS e CSS, podendo passar a imagem arrastando ou clicando sobre as setas.
 
